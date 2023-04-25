@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'http://blog.astero.xyz/'
+languageCode = 'zh-cn'
+title = 'Lan&Le'
 theme = 'PaperMod'
