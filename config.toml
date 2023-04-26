@@ -2,3 +2,7 @@ baseURL = 'http://blog.astero.xyz/'
 languageCode = 'zh-cn'
 title = 'Lan&Le'
 theme = 'PaperMod'
+
+[params]
+[params.assets]
+disableFingerprinting = true
