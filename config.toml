@@ -1,8 +1,20 @@
-baseURL = 'http://blog.astero.xyz/'
+baseURL = 'https://home.astero.xyz/'
 languageCode = 'zh-cn'
 title = 'Lan&Le'
 theme = 'PaperMod'
 
+
 [params]
+defaultTheme = 'dark'
+ShowReadingTime = true
+
+
+[params.homeInfoParams]
+Title = 'Hi there!'
+Content = 'This is home of Lan&Le, please have a seat.'
+
+
 [params.assets]
 disableFingerprinting = true
+favicon = "./assets/favicon.svg"
+favicon16x16 = "./assets/favicon-16x16.png"
