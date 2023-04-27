@@ -16,5 +16,5 @@ Content = 'This is home of Lan&Le, please have a seat.'
 
 [params.assets]
 disableFingerprinting = true
-favicon = "./assets/favicon.svg"
-favicon16x16 = "./assets/favicon-16x16.png"
+favicon = "https://cdn.astero.xyz/blogs/favicon.svg"
+favicon16x16 = "https://cdn.astero.xyz/blogs/favicon-16x16.png"
